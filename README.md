@@ -2,5 +2,8 @@
 
 爬取東森房屋、住商不動產的code (尚未函式化，僅操作欄位參考)
 
-※jupyter筆記 範例　ｐｙ檔爬取輔助用 x2※
+※且記!!! Google_Drive → https://goo.gl/bwJEaI 載完後改路徑或修改程式碼路徑(chrome_path)
 
+※Google_Drive 會跳出錯誤 → error !!!
+
+※jupyter筆記 範例　ｐｙ檔爬取輔助用 x2
