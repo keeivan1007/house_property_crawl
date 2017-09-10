@@ -8,4 +8,4 @@
 
 ※Google_Drive 會跳出錯誤 → error !!!
 
-※jupyter筆記 範例　ｐｙ檔爬取輔助用 x2
+※jupyter筆記 範例　py 檔爬取輔助用 x2
